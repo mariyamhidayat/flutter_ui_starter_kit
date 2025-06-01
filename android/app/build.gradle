@@ -6,7 +6,7 @@ plugins {
 }
 
 android {
-    namespace = "com.example.flutter_ui_starter_kit"
+    namespace = "com.example.flutter_class_ias"
     compileSdk = flutter.compileSdkVersion
     ndkVersion = flutter.ndkVersion
 

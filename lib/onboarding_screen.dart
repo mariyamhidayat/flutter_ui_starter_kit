@@ -1,5 +1,6 @@
 import 'package:flutter/cupertino.dart';
 import 'package:flutter/material.dart';
+
 import 'package:flutter_ui_starter_kit/signin_screen.dart';
 
 class OnBoarding extends StatefulWidget {

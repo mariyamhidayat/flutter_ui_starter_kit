@@ -2,7 +2,6 @@ import 'package:flutter/cupertino.dart';
 import 'package:flutter/material.dart';
 
 import 'onboarding_screen.dart';
-
 class GetStarted extends StatefulWidget {
   @override
   State<GetStarted> createState() => _GetStartedState();

@@ -1,6 +1,5 @@
 import 'package:flutter/material.dart';
 import 'package:flutter_ui_starter_kit/splash_screen.dart';
-
 import 'child_tree.dart';
 import 'get_started.dart';
 

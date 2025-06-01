@@ -23,15 +23,11 @@ class _SignInState extends State<SignIn> {
             padding: const EdgeInsets.only(left: 20.0, right: 20.0),
             child: Column(
               children: [
-                Container(
+                 Container(
                   width: double.infinity,
-                  child: Text(
-                    "Welcome \nBack!",
-                    style: TextStyle(fontSize: 44, fontWeight: FontWeight.bold),
-                  ),
+                  child: Text("Welcome \nBack!", style: TextStyle(fontSize: 44, fontWeight: FontWeight.bold),),
                 ),
-                SizedBox(
-                  height: 20,
+                SizedBox(height: 20,
                 ),
                 TextFormField(
                   controller: _nameEmailController,
