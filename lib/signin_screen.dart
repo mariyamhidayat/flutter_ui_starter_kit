@@ -1,7 +1,6 @@
 import 'package:flutter/cupertino.dart';
 import 'package:flutter/material.dart';
 import 'package:flutter_ui_starter_kit/signup_screen.dart';
-
 class SignIn extends StatefulWidget {
   @override
   State<SignIn> createState() => _SignInState();
