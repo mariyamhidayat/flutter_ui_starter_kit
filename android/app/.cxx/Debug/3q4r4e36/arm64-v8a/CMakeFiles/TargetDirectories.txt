@@ -1,0 +1,2 @@
+C:/Users/Swan Computers/AndroidStudioProjects/flutter_class_ias-master/android/app/.cxx/Debug/3q4r4e36/arm64-v8a/CMakeFiles/edit_cache.dir
+C:/Users/Swan Computers/AndroidStudioProjects/flutter_class_ias-master/android/app/.cxx/Debug/3q4r4e36/arm64-v8a/CMakeFiles/rebuild_cache.dir
